@@ -24,3 +24,5 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014176/index.m
 http://gslbservzqhsw.itv.cmvideo.cn/1000000001000014176/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视",广东卫视
 http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="南方卫视" tvg-name="南方卫视" group-title="卫视",南方卫视
+https://hc73k3dhwo5gfkt.wcetv.com/hls/gdtv.m3u8
