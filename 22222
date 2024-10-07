@@ -42,9 +42,9 @@ https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-id="翡翠新闻台" tvg-name="翡翠新闻台" group-title="常用",翡翠新闻台
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" group-title="常用",CCTV2财经
-http://110.53.52.63:8888/newlive/live/hls/3/live.m3u8
-#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" group-title="常用",CCTV2财经
 http://112.123.206.32:808/hls/2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" group-title="常用",CCTV2财经
+http://110.53.52.63:8888/newlive/live/hls/3/live.m3u8
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" group-title="常用",CCTV2财经
 http://221.0.78.198:1681/hls/10202/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" group-title="常用",CCTV2财经
